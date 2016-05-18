@@ -1,4 +1,3 @@
-layout_spectrum: 0.576105171116069
 typography_spectrum: 0.10711702750995755
 color:
   brandStrength: 0.47259122622199357
@@ -11,4 +10,10 @@ color:
     - '#911146'
     - '#CF4A30'
     - '#ED8C2B'
+layout_spectrum: 0.576105171116069
+author:
+  name: Miranda Suryadjaja
+  email: sayamiranda@gmail.com
+  url: www.feelingistheway.com
 name: the feeling way
+title: to feel is to heal
